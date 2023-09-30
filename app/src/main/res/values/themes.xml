@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CourtCounter" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF8000</item>
+        <item name="colorButtonNormal">#FF8000</item>
+    </style>
+
+    <style name="Theme.CourtCounter" parent="Base.Theme.CourtCounter" />
+</resources>
